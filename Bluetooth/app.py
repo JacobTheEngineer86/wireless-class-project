@@ -3,8 +3,8 @@ import bluetooth
 import lightblue
 
 # we should know
-target_name = "RUSHI"  # Bluetooth name to connect with
-file_to_send = "/home/codedem/Downloads/logo.jpg"
+target_name = "TIM"  # Bluetooth name to connect with
+file_to_send = "/home/pi/Documents/AWPA-Sender/Data/Bluetooth-Data/success.jpg"
 
 # we don't know yet
 obex_port = None

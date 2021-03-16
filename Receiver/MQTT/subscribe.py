@@ -15,3 +15,6 @@ client.subscribe("TEMPERATURE")
 client.on_message = on_message
 time.sleep(30)
 client.loop_end()
+
+
+# https: // stackoverflow.com/questions/65014288/mqtt-message-from-csv-file
