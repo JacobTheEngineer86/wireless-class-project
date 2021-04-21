@@ -33,6 +33,6 @@ def MQTT_subscribe(broker, topic):
     client.loop_forever()
 
 
-broker = "mqtt.eclipse.org"
+broker = "mqtt.eclipseprojects.io"
 
 MQTT_subscribe(broker, "topic")
